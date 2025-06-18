@@ -75,7 +75,7 @@ cd AdminDashboard
 Для запуска бэкенда перейдите под анному пути
 
 ```bash
-cd backend\AdminDashboardBackend\AdminDashboardBackend>
+cd backend\AdminDashboardBackend\AdminDashboardBackend
 ```
 
 Выполните следующие комманды
